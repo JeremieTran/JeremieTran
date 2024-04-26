@@ -12,26 +12,12 @@
         </samp>
 </h3>
 
-
-<p align="center"> 
-  <samp>
-    <a href="https://jeremietran.fr">「 Mon site 」</a>
-    <br>
-    「 Je suis un professeur d'informatique qui vient de <b>France</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
 <p align="center">
  <a href="https://jeremietran.fr" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Kévin NIEL" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Jérémie Tran" />
  </a>
- <a href="https://www.linkedin.com/in/jeremietran/" target="_blank">
+ <a href="www.linkedin.com/in/jérémie-tran-44897b1a2" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kévin NIEL"/>
- </a>
- <a href="https://twitter.com/kevinniel49" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
 </p>
 <br />
