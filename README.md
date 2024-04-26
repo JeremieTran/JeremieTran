@@ -1,5 +1,5 @@
-<a href="https://komarev.com/ghpvc/?username=kevinniel">
-  <img align="right" src="https://komarev.com/ghpvc/?username=kevinniel&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=JeremieTran">
+  <img align="right" src="https://komarev.com/ghpvc/?username=JeremieTran&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -8,14 +8,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Salut!, moi c'est
-                <b><a target="_blank" href="https://kevinniel.fr">Kévin NIEL</a></b>
+                <b><a target="_blank" href="https://jeremietran.fr">Jérémie TRAN</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://kevinniel.fr">「 Mon site 」</a>
+    <a href="https://jeremietran.fr">「 Mon site 」</a>
     <br>
     「 Je suis un professeur d'informatique qui vient de <b>France</b> 」
     <br>
@@ -24,10 +24,10 @@
 </p>
 
 <p align="center">
- <a href="https://kevinniel.fr" target="blank">
+ <a href="https://jeremietran.fr" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Kévin NIEL" />
  </a>
- <a href="https://www.linkedin.com/in/kevinniel/" target="_blank">
+ <a href="https://www.linkedin.com/in/jeremietran/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kévin NIEL"/>
  </a>
  <a href="https://twitter.com/kevinniel49" target="_blank">
@@ -124,7 +124,7 @@
 
 <p align="center">
   <a href="https://github.com/keviniel">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinniel&theme=radical&border=7F3FBF&background=0D1117" alt="kevinniel GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeremieTran&theme=radical&border=7F3FBF&background=0D1117" alt="JeremieTran GitHub streak"/>
   </a>
 </p>
 
@@ -135,10 +135,10 @@
 </p>
 
 <a> 
-    <a href="https://github.com/kevinniel"><img alt="kevinniel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kevinniel&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/kevinniel"><img alt="kevinniel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kevinniel&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/JeremieTran"><img alt="JeremieTran's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JeremieTran&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/JeremieTran"><img alt="JeremieTran's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JeremieTran&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Les infos de Kévin](https://github-readme-activity-graph.vercel.app/graph?username=kevinniel&custom_title=Kevin%20NIEL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Les infos de Jérémie](https://github-readme-activity-graph.vercel.app/graph?username=JeremieTran&custom_title=Jeremie%20TRAN's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
