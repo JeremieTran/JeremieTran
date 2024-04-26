@@ -26,7 +26,6 @@
  # A propos de mois
  
 <p>
- <img align="right" width="200" src="/assets/kevinniel.jpeg" alt="Kévin NIEL" />
   
  ✌️ &emsp; Je suis en reconversion en développement applicatif BAC+ 3<br/><br/>
  ❤️ &emsp; J'ai un parcours initial en commerce, management et marketing<br/><br/>
@@ -61,18 +60,18 @@
 ## Mes tops projets
 
 <p align="center">
-  <a href="https://microlead.fr/" target="_blank">
-    MICROLEAD - Le site gratuit de formation continue en informatique
+  <a href="https://jeremietran.fr/" target="_blank">
+    Mon Portfolio !
   </a>
 </p>
 <p align="center">
-  <a href="https://nkinformatique.com/" target="_blank">
-    NK INFORMATIQUE - Formation, développement, graphisme et audit
+  <a href="https://veillerss.jeremietran.fr/" target="_blank">
+    Veille RSS - Le site gratuit d'agrégateur de veille
   </a>
 </p>
 <p align="center">
-  <a href="https://prospect-it.com/" target="_blank">
-    PROSPECT-IT - Ne manquez plus jamais un prospect !
+  <a href="https://canin.jeremietran.fr/" target="_blank">
+    Site de gestion Canin
   </a>
 </p>
 <p align="center">
