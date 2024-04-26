@@ -22,21 +22,6 @@
 </p>
 <br />
 
-<!-- About Section -->
- # A propos de mois
- 
-<p>
-  
- ✌️ &emsp; Je suis en reconversion en développement applicatif BAC+ 3<br/><br/>
- ❤️ &emsp; J'ai un parcours initial en commerce, management et marketing<br/><br/>
- 💬 &emsp; Vous pouvez me poser toutes vos questions [ici](https://linkedin.com/in/jeremietran)
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
 ## Quelques technologies que j'utilise
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -74,24 +59,18 @@
     Site de gestion Canin
   </a>
 </p>
-<p align="center">
-  <a href="https://www.amazon.fr/Chat-GPT-exploiter-lIntelligence-Artificielle/dp/B0C1JJTJJ6" target="_blank">
-    CHATGPT 4 - Découverte et compréhensino facile pour grand public
-  </a>
-</p>
-
 <br/>
 <hr/>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/keviniel">
+  <a href="https://github.com/JeremieTran">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeremieTran&theme=radical&border=7F3FBF&background=0D1117" alt="JeremieTran GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kevinniel">
+  <a href="https://github.com/JeremieTran">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinniel&theme=radical" alt="kevinniel GitHub Contribution"/>
   </a>
 </p>
