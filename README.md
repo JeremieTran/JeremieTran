@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://github.com/JeremieTran">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinniel&theme=radical" alt="kevinniel GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeremieTran&theme=radical" alt="JeremieTran GitHub Contribution"/>
   </a>
 </p>
 
