@@ -16,7 +16,7 @@
  <a href="https://jeremietran.fr" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Jérémie Tran" />
  </a>
- <a href="www.linkedin.com/in/jérémie-tran-44897b1a2" target="_blank">
+ <a href="www.linkedin.com/in/jeremietran" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kévin NIEL"/>
  </a>
 </p>
@@ -28,10 +28,9 @@
 <p>
  <img align="right" width="200" src="/assets/kevinniel.jpeg" alt="Kévin NIEL" />
   
- ✌️ &emsp; Je suis prof d'informatique de BAC+1 à BAC+5<br/><br/>
- ❤️ &emsp; J'enseigne le développement web et la gestion de projet<br/><br/>
- 📧 &emsp; Je suis Jury officiel sur 4 titres BAC+3 du ministère du travail<br/><br/>
- 💬 &emsp; Vous pouvez me poser toutes vos questions [ici](https://linkedin.com/in/kevinniel)
+ ✌️ &emsp; Je suis en reconversion en développement applicatif BAC+ 3<br/><br/>
+ ❤️ &emsp; J'ai un parcours initial en commerce, management et marketing<br/><br/>
+ 💬 &emsp; Vous pouvez me poser toutes vos questions [ici](https://linkedin.com/in/jeremietran)
 
 </p>
 
