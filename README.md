@@ -54,7 +54,7 @@
 </p>
 <p align="center">
   <a href="https://veillerss.jeremietran.fr/" target="_blank">
-    Veille RSS - Le site gratuit d'agrégateur de veille
+    Veille RSS - Le site gratuit d'agrégateur de flux
   </a>
 </p>
 <p align="center">
