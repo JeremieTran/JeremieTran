@@ -37,7 +37,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C873A?style=for-the-badge&logo=phpunit&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-4479A1?style=for-the-badge&logo=vba&logoColor=white)
 
 
 <br/>
