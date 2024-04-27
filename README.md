@@ -12,6 +12,8 @@
         </samp>
 </h3>
 
+<img align="right" width="200" src="/assets/perso.jpeg" alt="Kévin NIEL" />
+
 <p align="center">
  <a href="https://jeremietran.fr" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Jérémie Tran" />
