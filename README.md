@@ -11,7 +11,7 @@
                 <b><a target="_blank" href="https://jeremietran.fr">Jérémie TRAN</a></b>
         </samp>
 </h3>
-<p>
+<p align="center">
 <img align="center" width="200" src="/profile-pic.png" alt="Jérémie Tran" />
 </p>
 
