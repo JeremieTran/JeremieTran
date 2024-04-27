@@ -12,7 +12,7 @@
         </samp>
 </h3>
 
-<img align="right" width="200" src="/assets/perso.jpeg" alt="Kévin NIEL" />
+<img align="right" width="200" src="/profil-pic.png" alt="Jérémie Tran" />
 
 <p align="center">
  <a href="https://jeremietran.fr" target="blank">
